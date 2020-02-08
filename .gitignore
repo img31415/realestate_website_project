@@ -115,4 +115,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# local settings.py
+btre/settings.py
+
 # End of https://www.gitignore.io/api/django
