@@ -105,7 +105,7 @@ celerybeat-schedule
 
 # mkdocs documentation
 /site
-btre_theme
+img_theme
 
 # mypy
 .mypy_cache/
@@ -116,6 +116,6 @@ dmypy.json
 .pyre/
 
 # local settings.py
-btre/settings.py
+img/settings.py
 
 # End of https://www.gitignore.io/api/django
