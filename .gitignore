@@ -10,6 +10,7 @@ db.sqlite3
 db.sqlite3-journal
 media
 venv
+/static
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
@@ -106,15 +107,14 @@ celerybeat-schedule
 # mkdocs documentation
 /site
 img_theme
-
+/static
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
-.pyre/
-
+.pyremedia
 # local settings.py
 img/settings.py
 
